@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireblog-io-dev": {
+      "hosting": {
+        "angular-universal-firebase-functions": [
+          "fireblog-io-dev"
+        ]
+      }
+    }
+  }
+}
